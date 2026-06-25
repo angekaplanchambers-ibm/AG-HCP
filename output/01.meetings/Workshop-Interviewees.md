@@ -1,27 +1,3 @@
-# Daniel Savage
-## Senior Director, Terraform Product Management, Hashicorp
-### Expertise: Job role and specialties
-
-Product Manager
-
-IBM Product Managers deliver business results by bringing high-quality products to market by defining the strategy and execution plans while continuously innovating to achieve market leadership. Product Managers are experts at market and business analysis, product definition, product roadmap, pricing, ecosystem, channel strategy, strategic planning, competitive analysis, innovation and leading cross-functional teams. They manage the product lifecycle from inception through growth, maturity, and end of life stages and define partnership and ecosystem strategy for product execution. Product Managers maximize internal and external relationships interfacing with design, product marketing, ecosystem partners, analysts, engineering, sales and services teams to deliver a successful product with defined routes to market. They are experts in the field and are recognized as a credible voice in the market
-
-### Organization
-IBM Software > Software Product Development > HCP Michael Weingartner
-
-### Department name
-Hashicorp Product Management
-
-### Business unit
-IBM Software
-
-
----
-***
-___
-
-
-
 # Chris Audie
 ## SVP Product Management - HashiCorp
 ### Expertise: Job role and specialties
@@ -45,3 +21,48 @@ Hashicorp Product Management
 
 ### Business unit
 IBM Software
+
+
+---
+***
+___
+
+
+# Omar Ismail
+## Product Manager
+### Expertise: Job Role and specialties
+
+IBM Product Managers deliver business results by bringing high-quality products to market by defining the strategy and execution plans while continuously innovating to achieve market leadership. Product Managers are experts at market and business analysis, product definition, product roadmap, pricing, ecosystem, channel strategy, strategic planning, competitive analysis, innovation and leading cross-functional teams. They manage the product lifecycle from inception through growth, maturity, and end of life stages and define partnership and ecosystem strategy for product execution. Product Managers maximize internal and external relationships interfacing with design, product marketing, ecosystem partners, analysts, engineering, sales and services teams to deliver a successful product with defined routes to market. They are experts in the field and are recognized as a credible voice in the market.
+
+### Organization
+IBM Software > Software Product Development > HCP Michael Weingartner
+
+### Department name
+Hashicorp Product Management
+
+### Business unit
+IBM Software
+
+
+---
+***
+___
+
+
+# Daniel Savage
+## Senior Director, Terraform Product Management, Hashicorp
+### Expertise: Job role and specialties
+
+Product Manager
+
+IBM Product Managers deliver business results by bringing high-quality products to market by defining the strategy and execution plans while continuously innovating to achieve market leadership. Product Managers are experts at market and business analysis, product definition, product roadmap, pricing, ecosystem, channel strategy, strategic planning, competitive analysis, innovation and leading cross-functional teams. They manage the product lifecycle from inception through growth, maturity, and end of life stages and define partnership and ecosystem strategy for product execution. Product Managers maximize internal and external relationships interfacing with design, product marketing, ecosystem partners, analysts, engineering, sales and services teams to deliver a successful product with defined routes to market. They are experts in the field and are recognized as a credible voice in the market
+
+### Organization
+IBM Software > Software Product Development > HCP Michael Weingartner
+
+### Department name
+Hashicorp Product Management
+
+### Business unit
+IBM Software
+
